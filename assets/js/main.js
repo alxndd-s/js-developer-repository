@@ -34,6 +34,23 @@ function updateHardSkills(profileData){
     </li>`).join('')
 }
 
+function updateHardSkills(profileData){
+    const hardSkills = document.getElementById("profile.skills.hardSkills")
+    hardSkills.innerHTML = profileData.skills.hardSkills.map(skill => `<li>
+    <img src="${skill.logo}" alt="${skill.name}" title="${skill.name}">
+    </li>`).join('')
+}
+
+function uptdatePortfolio(profileData){
+    const portfolio = document.getElementById("profile.portfolio")
+    portfolio.innerHTML = profileData.skills.portfolio.map(portfolio => `<li>
+    <span class="title github">${portfolio.name}</span>
+    <a href="${portfolio.url}" target="_blank">${portfolio.url}</a>
+    </li>`).join('')
+}
+
+
+
 
 
 
@@ -54,4 +71,5 @@ function updateSoftSkills(profileData){
     updateProfileInfo(profileData)
     updateSoftSkills(profileData)
     updateHardSkills(profileData)
+    uptdatePortfolio(profileData)
 })()
