@@ -7,7 +7,7 @@
 
 @font-face {
     font-family:  'Neue Machina';
-    src: url("../fonts/neue-machina-regular.otf');
+    src: url("../fonts/neue-machina-regular.otf");
 }
 .header .photo {
     width: 200px;
@@ -50,23 +50,23 @@
 
 .information .job::before {
 
-    background-image: url("../img/icons/job.svg');
+    background-image: url("../img/icons/job.svg");
 }
 
 .information .email::before {
     
-    background-image: url("../img/icons/email.svg');
+    background-image: url("../img/icons/email.svg");
 }
 
 .information .location::before {
     
-    background-image: url("../img/icons/location.svg');
+    background-image: url("../img/icons/location.svg");
 
 }
 
 .information .phone::before {
     
-    background-image: url("../img/icons/phone.svg');
+    background-image: url("../img/icons/phone.svg");
     
 }
 
