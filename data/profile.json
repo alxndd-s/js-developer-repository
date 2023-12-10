@@ -9,9 +9,25 @@
       "hardSkills": [
         {
           "name": "JavaScript",
-          "logo": "hhttps://github.com/alxndd-s/js-developer-repository/blob/main/assets/img/icons/languages/javascript.png?raw=true"
+          "logo": "https://github.com/alxndd-s/js-developer-repository/blob/main/assets/img/icons/languages/javascript.png?raw=true"
+        },
+        {
+          "name": "HTML",
+          "logo": "https://github.com/alxndd-s/js-developer-repository/blob/main/assets/img/icons/languages/html.png?raw=true"
+        },
+        {
+          "name": "CSS",
+          "logo": "https://github.com/alxndd-s/js-developer-repository/blob/main/assets/img/icons/languages/css.png?raw=true"
+        },
+        {
+          "name": "git",
+          "logo": "https://github.com/alxndd-s/js-developer-repository/blob/main/assets/img/icons/languages/git.png?raw=true"
+        },
+        {
+          "name": "GitHub",
+          "logo": "https://github.com/alxndd-s/js-developer-repository/blob/main/assets/img/icons/languages/github.png?raw=true"
         }
-        
+
       ],
       "softSkills": [
         "Facilidade em resolver problemas.",
