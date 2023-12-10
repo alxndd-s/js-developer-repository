@@ -43,7 +43,7 @@ function updateHardSkills(profileData){
 
 function uptdatePortfolio(profileData){
     const portfolio = document.getElementById("profile.portfolio")
-    portfolio.innerHTML = profileData.skills.portfolio.map(portfolio => `<li>
+    portfolio.innerHTML = profileData.portfolio.map(portfolio => `<li>
     <span class="title github">${portfolio.name}</span>
     <a href="${portfolio.url}" target="_blank">${portfolio.url}</a>
     </li>`).join('')

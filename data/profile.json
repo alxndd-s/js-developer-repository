@@ -1,6 +1,6 @@
 {
     "name": "Alexandre Rodrigues",
-    "photo": "https://github.com/alxndd-s/js-developer-repository/blob/main/assets/img/avt.jpeg?raw=true",
+    "photo": "https://github.com/alxndd-s/js-developer-repository/blob/mainassets/img/avt.jpeg?raw=true",
     "job": "TCM Trindade Log.",
     "location": "Minas Gerais - BR",
     "phone": "(35) 99999-9999",
@@ -9,23 +9,23 @@
       "hardSkills": [
         {
           "name": "JavaScript",
-          "logo": "https://github.com/alxndd-s/js-developer-repository/blob/main/assets/img/icons/languages/javascript.png?raw=true"
+          "logo": "https://github.com/alxndd-s/js-developer-repository/blob/mainassets/img/icons/languages/javascript.png?raw=true"
         },
         {
           "name": "HTML",
-          "logo": "https://github.com/alxndd-s/js-developer-repository/blob/main/assets/img/icons/languages/html.png?raw=true"
+          "logo": "https://github.com/alxndd-s/js-developer-repository/blob/mainassets/img/icons/languages/html.png?raw=true"
         },
         {
           "name": "CSS",
-          "logo": "https://github.com/alxndd-s/js-developer-repository/blob/main/assets/img/icons/languages/css.png?raw=true"
+          "logo": "https://github.com/alxndd-s/js-developer-repository/blob/mainassets/img/icons/languages/css.png?raw=true"
         },
         {
           "name": "git",
-          "logo": "https://github.com/alxndd-s/js-developer-repository/blob/main/assets/img/icons/languages/git.png?raw=true"
+          "logo": "https://github.com/alxndd-s/js-developer-repository/blob/mainassets/img/icons/languages/git.png?raw=true"
         },
         {
           "name": "GitHub",
-          "logo": "https://github.com/alxndd-s/js-developer-repository/blob/main/assets/img/icons/languages/github.png?raw=true"
+          "logo": "https://github.com/alxndd-s/js-developer-repository/blob/mainassets/img/icons/languages/github.png?raw=true"
         }
 
       ],
